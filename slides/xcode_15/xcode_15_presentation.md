@@ -4,7 +4,7 @@
 
 ---
 
-## Modular Installs
+## Modular Install
 
 <split left="2" right="1" gap="2">
 
