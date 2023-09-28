@@ -15,8 +15,8 @@
 
 <split wrap="2">
 
-![](xcode14_size.png)
-![](xcode15_size.png)
+![](assets/xcode_updates/xcode14_size.png)
+![](assets/xcode_updates/xcode15_size.png)
 
 </split>
 
@@ -62,11 +62,11 @@ XCFrameworks imported into the project now shows the digital signature being sig
 
 UIKit preview now works like SwiftUI
 Auto completion
-![](preview_xcode.png)
+![](assets/xcode_updates/preview_xcode.png)
 
 <split wrap="2">
 
-![](xcode_15_hide_if.png)
+![](assets/xcode_updates/xcode_15_hide_if.png)
 </split>
 
 
@@ -86,7 +86,7 @@ Developers can play around with apple's new visionOS SDK which is planned to be 
 
 <split wrap="2">
 
-![](vision_os.png)
+![](assets/xcode_updates/vision_os.png)
 
 
 </split>
