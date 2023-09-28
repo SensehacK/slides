@@ -6,7 +6,7 @@
       {
         "id": "306320f2c6d41427",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 31.873373807458805,
         "children": [
           {
             "id": "117c5641afd5b30b",
@@ -14,21 +14,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xcode_15/xcode_15_presentation.md",
+                "file": "source/xcode_15/xcode_15_presentation.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
         ]
       },
       {
-        "id": "d4c63a4bb07fac40",
+        "id": "f6bf3688d7d5b283",
         "type": "tabs",
-        "dimension": 47.708333333333336,
+        "dimension": 56.98178664353859,
         "children": [
           {
-            "id": "d7b536b7e1d91b03",
+            "id": "96f001db6c1414bb",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -40,18 +40,14 @@
       {
         "id": "33a9e7ba35e1f020",
         "type": "tabs",
-        "dimension": 18.958333333333332,
+        "dimension": 11.144839549002603,
         "children": [
           {
             "id": "b6dc148ca612ef52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "xcode_15/xcode_15_presentation.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -129,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "xcode_15/xcode_15_presentation.md",
+                "file": "source/xcode_15/xcode_15_presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "xcode_15/xcode_15_presentation.md",
+                "file": "source/xcode_15/xcode_15_presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "xcode_15/xcode_15_presentation.md"
+                "file": "source/xcode_15/xcode_15_presentation.md"
               }
             }
           }
@@ -191,30 +187,31 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d7b536b7e1d91b03",
+  "active": "65edfc9557e73a6a",
   "lastOpenFiles": [
+    "export/assets/xcode_updates/xrOS_resources.png",
+    "export/assets/xcode_updates/xcodes_app.png",
+    "export/assets/xcode_updates/xcode_logging_improvements_UI.png",
+    "export/assets/xcode_updates/xcode_15_improvements.png",
+    "export/assets/xcode_updates/xcode_15_hide_if.png",
+    "export/assets/xcode_updates/xcode15_size.png",
+    "export/assets/xcode_updates/xcode14_size.png",
+    "export/assets/xcode_updates/xcFramework_signatures.png",
+    "export/assets/xcode_updates/vision_os.png",
+    "export/assets/xcode_updates/preview_xcode.png",
+    "export/assets/xcode_updates",
+    "export/assets",
+    "export/xcode_15_presentation/assets/xcode_updates/xrOS_resources.png",
+    "export/xcode_15_presentation/assets/xcode_updates",
+    "export/xcode_15_presentation/assets",
     "export/xcode_15_presentation/plugin/chalkboard/README.md",
     "export/xcode_15_presentation/plugin/chalkboard/_style.css",
-    "export/xcode_15_presentation/plugin/chalkboard/img/blackboard.png",
-    "export/xcode_15_presentation/plugin/chalkboard/img/boardmarker-black.png",
-    "export/xcode_15_presentation/plugin/chalkboard/img/boardmarker-blue.png",
-    "export/xcode_15_presentation/plugin/chalkboard/img/boardmarker-green.png",
-    "export/xcode_15_presentation/plugin/chalkboard/img/boardmarker-orange.png",
-    "export/xcode_15_presentation/plugin/chalkboard/img/boardmarker-purple.png",
-    "export/xcode_15_presentation/plugin/chalkboard/img/boardmarker-red.png",
-    "export/xcode_15_presentation/plugin/chalkboard/img/boardmarker-yellow.png",
-    "export/xcode_15_presentation/plugin/chalkboard/img/chalk-blue.png",
-    "export/xcode_15_presentation/plugin/chalkboard/img/chalk-green.png",
     "export/xcode_15_presentation/plugin/chalkboard/img",
     "export/xcode_15_presentation/plugin/chalkboard/style.css",
     "export/xcode_15_presentation/plugin/chalkboard/plugin.js",
     "export/xcode_15_presentation/plugin/chalkboard/plugin (copy).js",
     "export/xcode_15_presentation/plugin/chalkboard",
-    "export/xcode_15_presentation/plugin/chart/plugin.js",
-    "export/xcode_15_presentation/plugin/chart/chart.min.js",
     "export/xcode_15_presentation/plugin/chart/README.md",
-    "export/xcode_15_presentation/plugin/chart",
-    "export/xcode_15_presentation/plugin/customcontrols/style.css",
     "export/xcode_15_presentation/plugin/customcontrols/README.md",
     "export/xcode_15_presentation/plugin/menu/CONTRIBUTING.md",
     "export/xcode_15_presentation/plugin/menu/README.md",
