@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xcode_15/xcode_15_presentation.md",
+                "file": "source/xcode_15/xcode_15_presentation.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xcode_15/xcode_15_presentation.md",
+                "file": "source/xcode_15/xcode_15_presentation.md",
                 "mode": "source",
                 "source": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "xcode_15/xcode_15_presentation.md",
+                "file": "source/xcode_15/xcode_15_presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "xcode_15/xcode_15_presentation.md",
+                "file": "source/xcode_15/xcode_15_presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "xcode_15/xcode_15_presentation.md"
+                "file": "source/xcode_15/xcode_15_presentation.md"
               }
             }
           }
@@ -191,33 +191,39 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d7b536b7e1d91b03",
+  "active": "65edfc9557e73a6a",
   "lastOpenFiles": [
-    "export/xcode_15_presentation/plugin/chalkboard/README.md",
-    "export/xcode_15_presentation/plugin/chalkboard/_style.css",
-    "export/xcode_15_presentation/plugin/chalkboard/img/blackboard.png",
-    "export/xcode_15_presentation/plugin/chalkboard/img/boardmarker-black.png",
-    "export/xcode_15_presentation/plugin/chalkboard/img/boardmarker-blue.png",
-    "export/xcode_15_presentation/plugin/chalkboard/img/boardmarker-green.png",
-    "export/xcode_15_presentation/plugin/chalkboard/img/boardmarker-orange.png",
-    "export/xcode_15_presentation/plugin/chalkboard/img/boardmarker-purple.png",
-    "export/xcode_15_presentation/plugin/chalkboard/img/boardmarker-red.png",
-    "export/xcode_15_presentation/plugin/chalkboard/img/boardmarker-yellow.png",
-    "export/xcode_15_presentation/plugin/chalkboard/img/chalk-blue.png",
-    "export/xcode_15_presentation/plugin/chalkboard/img/chalk-green.png",
-    "export/xcode_15_presentation/plugin/chalkboard/img",
-    "export/xcode_15_presentation/plugin/chalkboard/style.css",
-    "export/xcode_15_presentation/plugin/chalkboard/plugin.js",
-    "export/xcode_15_presentation/plugin/chalkboard/plugin (copy).js",
-    "export/xcode_15_presentation/plugin/chalkboard",
-    "export/xcode_15_presentation/plugin/chart/plugin.js",
-    "export/xcode_15_presentation/plugin/chart/chart.min.js",
-    "export/xcode_15_presentation/plugin/chart/README.md",
-    "export/xcode_15_presentation/plugin/chart",
-    "export/xcode_15_presentation/plugin/customcontrols/style.css",
-    "export/xcode_15_presentation/plugin/customcontrols/README.md",
-    "export/xcode_15_presentation/plugin/menu/CONTRIBUTING.md",
-    "export/xcode_15_presentation/plugin/menu/README.md",
-    "xcode_15/xcode_15_presentation.md"
+    "source/export",
+    "index.html",
+    "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
+    "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
+    "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
+    "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
+    "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff",
+    "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff",
+    "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff",
+    "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff",
+    "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff",
+    "plugin/chalkboard/img/whiteboard.png",
+    "plugin/chalkboard/img/sponge.png",
+    "plugin/chalkboard/img/chalk-yellow.png",
+    "plugin/chalkboard/img/chalk-white.png",
+    "plugin/chalkboard/img/chalk-red.png",
+    "plugin/chalkboard/img/chalk-purple.png",
+    "plugin/chalkboard/img/chalk-orange.png",
+    "plugin/chalkboard/img/chalk-green.png",
+    "plugin/chalkboard/img/chalk-blue.png",
+    "plugin/chalkboard/img/boardmarker-yellow.png",
+    "plugin/menu/README.md",
+    "plugin/menu/CONTRIBUTING.md",
+    "plugin/chart/README.md",
+    "plugin/customcontrols/README.md",
+    "plugin/chalkboard/README.md",
+    "xcode_15_presentation/plugin/chalkboard/README.md",
+    "xcode_15_presentation/plugin/chart/README.md",
+    "xcode_15_presentation/plugin/customcontrols/README.md",
+    "xcode_15_presentation/plugin/menu/CONTRIBUTING.md",
+    "xcode_15_presentation/plugin/menu/README.md",
+    "source/xcode_15/xcode_15_presentation.md"
   ]
 }
