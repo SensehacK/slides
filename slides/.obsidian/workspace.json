@@ -6,10 +6,44 @@
       {
         "id": "306320f2c6d41427",
         "type": "tabs",
-        "dimension": 31.873373807458805,
+        "dimension": 31.92346424974824,
         "children": [
           {
             "id": "117c5641afd5b30b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/github_slack/github_actions_slack.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b7535e020e19de31",
+        "type": "tabs",
+        "dimension": 46.15642833165492,
+        "children": [
+          {
+            "id": "cd6c0a55c959af50",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "61e0428f58d3e5ce",
+        "type": "tabs",
+        "dimension": 21.920107418596846,
+        "children": [
+          {
+            "id": "acc9b0e6c7dcd6a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,45 +55,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "f6bf3688d7d5b283",
-        "type": "tabs",
-        "dimension": 56.98178664353859,
-        "children": [
-          {
-            "id": "96f001db6c1414bb",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "33a9e7ba35e1f020",
-        "type": "tabs",
-        "dimension": 11.144839549002603,
-        "children": [
-          {
-            "id": "b6dc148ca612ef52",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "bfe9a07c0ad52f83",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 455.5
   },
   "right": {
     "id": "a30f25883b55405b",
@@ -125,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/xcode_15/xcode_15_presentation.md",
+                "file": "source/github_slack/github_actions_slack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/xcode_15/xcode_15_presentation.md",
+                "file": "source/github_slack/github_actions_slack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/xcode_15/xcode_15_presentation.md"
+                "file": "source/github_slack/github_actions_slack.md"
               }
             }
           }
@@ -187,30 +182,43 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "65edfc9557e73a6a",
+  "active": "117c5641afd5b30b",
   "lastOpenFiles": [
-    "export/assets/xcode_updates/xrOS_resources.png",
-    "export/assets/xcode_updates/xcodes_app.png",
-    "export/assets/xcode_updates/xcode_logging_improvements_UI.png",
-    "export/assets/xcode_updates/xcode_15_improvements.png",
-    "export/assets/xcode_updates/xcode_15_hide_if.png",
-    "export/assets/xcode_updates/xcode15_size.png",
-    "export/assets/xcode_updates/xcode14_size.png",
-    "export/assets/xcode_updates/xcFramework_signatures.png",
-    "export/assets/xcode_updates/vision_os.png",
-    "export/assets/xcode_updates/preview_xcode.png",
-    "export/assets/xcode_updates",
-    "export/assets",
-    "export/xcode_15_presentation/assets/xcode_updates/xrOS_resources.png",
-    "export/xcode_15_presentation/assets/xcode_updates",
-    "export/xcode_15_presentation/assets",
+    "export/github_actions_slack/source/github_slack/assets/Screenshot 2024-02-16 at 12.42.56 PM.png",
+    "export/github_actions_slack/source/github_slack/assets/Screenshot 2024-02-16 at 12.02.37 PM.png",
+    "export/github_actions_slack/source/github_slack/assets/Screenshot 2024-02-16 at 11.54.50 AM.png",
+    "export/github_actions_slack/source/github_slack/assets/Screenshot 2024-02-16 at 1.01.47 PM.png",
+    "export/github_actions_slack/source/github_slack/assets",
+    "export/github_actions_slack/source/github_slack",
+    "export/github_actions_slack/source",
+    "export/github_actions_slack/plugin/chalkboard/README.md",
+    "export/github_actions_slack/plugin/chalkboard/_style.css",
+    "export/github_actions_slack/plugin/chalkboard/img/blackboard.png",
+    "export/github_actions_slack/plugin/chalkboard/img/boardmarker-black.png",
+    "export/github_actions_slack/plugin/chalkboard/img/boardmarker-blue.png",
+    "export/github_actions_slack/plugin/chalkboard/img/boardmarker-green.png",
+    "export/github_actions_slack/plugin/chalkboard/img/boardmarker-orange.png",
+    "export/github_actions_slack/plugin/chalkboard/img/boardmarker-purple.png",
+    "export/github_actions_slack/plugin/chalkboard/img/boardmarker-red.png",
+    "export/github_actions_slack/plugin/chalkboard/style.css",
+    "export/github_actions_slack/plugin/chalkboard/plugin.js",
+    "export/github_actions_slack/plugin/chalkboard/plugin (copy).js",
+    "export/github_actions_slack/plugin/chalkboard/img",
+    "export/github_actions_slack/plugin/chalkboard",
+    "export/github_actions_slack/plugin/chart/plugin.js",
+    "export/github_actions_slack/plugin/chart/README.md",
+    "export/github_actions_slack/plugin/customcontrols/README.md",
+    "export/github_actions_slack/plugin/menu/README.md",
+    "export/github_actions_slack/plugin/menu/CONTRIBUTING.md",
+    "source/github/github_SDLC.md",
+    "source/github_slack/github_actions_slack.md",
+    "source/xcode_15/xcode_15_presentation.md",
+    "export/github_SDLC/plugin/chalkboard/README.md",
+    "export/github_SDLC/plugin/chart/README.md",
+    "export/github_SDLC/plugin/customcontrols/README.md",
+    "export/github_SDLC/plugin/menu/README.md",
+    "export/github_SDLC/plugin/menu/CONTRIBUTING.md",
     "export/xcode_15_presentation/plugin/chalkboard/README.md",
-    "export/xcode_15_presentation/plugin/chalkboard/_style.css",
-    "export/xcode_15_presentation/plugin/chalkboard/img",
-    "export/xcode_15_presentation/plugin/chalkboard/style.css",
-    "export/xcode_15_presentation/plugin/chalkboard/plugin.js",
-    "export/xcode_15_presentation/plugin/chalkboard/plugin (copy).js",
-    "export/xcode_15_presentation/plugin/chalkboard",
     "export/xcode_15_presentation/plugin/chart/README.md",
     "export/xcode_15_presentation/plugin/customcontrols/README.md",
     "export/xcode_15_presentation/plugin/menu/CONTRIBUTING.md",
